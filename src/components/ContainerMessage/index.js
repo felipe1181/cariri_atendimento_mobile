@@ -10,7 +10,7 @@ const ContainerMessage = (props) => {
     marginHorizontal:20,
     marginBottom:30,    
     padding:10,
-    height:130,  
+    height: parseInt(props.height) || 130,  
     alignContent:"center",
     alignItems:"center", 
     backgroundColor: typeColors[props.type || 'default'],

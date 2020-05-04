@@ -16,7 +16,13 @@ const buttonstyles = StyleSheet.create({
     elevation: 1,
     borderBottomWidth: 3,
     borderBottomColor: '#7B5DCA',
-  } 
+  },  
+  buttonSecundary:{
+    backgroundColor:'#D7C9FF', 
+  },
+  buttonGroup:{
+    backgroundColor:'#59409a',
+  }
 });
 
 export default buttonstyles;
