@@ -3,6 +3,7 @@ import Colors from '../../styles/colors/';
 
 const stylesCadastroInfoPessoal = StyleSheet.create({ 
   container: {     
+    
     backgroundColor:Colors.solid,
     marginHorizontal:20,
     padding:10,

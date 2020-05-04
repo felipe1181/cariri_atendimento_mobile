@@ -6,5 +6,5 @@ export default
   'default':'#cccccc',
   'primary':'#462e81',
   'secundary':'#59409a',
-  'solid':'#c4c4c4',
+  'solid':'#e6def4',
 };
