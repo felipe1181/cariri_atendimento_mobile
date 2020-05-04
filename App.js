@@ -1,11 +1,13 @@
 import React from 'react';
 
 import { StyleSheet, View } from 'react-native';
-import Login from './src/pages/Login'
+
+import Login from './src/pages/Login';
+import TermosServico from './src/pages/TermosServico';
 
 export default function App() {
   return (
-    <View style={styles.container}>
+    <View>
         <Login/>
     </View>
   );
